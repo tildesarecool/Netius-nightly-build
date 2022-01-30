@@ -1,4 +1,4 @@
-# Netius-nightly-build
+# Newtius nightly build
 The latest and most bleeding edge version available.
 
 Newtius is my horizontal "shmup" I'm writing using GameMaker Studio 2.3 (GMS2). 
