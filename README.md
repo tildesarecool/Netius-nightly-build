@@ -7,7 +7,7 @@ This repo is to host the HTML5 version of the game genarated by GMS2.
 
 The actual game is playable at the address:
 
-[https://tildesarecool.github.io/Netius-nightly-build/](https://tildesarecool.github.io/Netius-nightly-build/)
+[https://tildesarecool.github.io/Newtius-nightly-build/](https://tildesarecool.github.io/Newtius-nightly-build/)
 
 This is the absolute latest bleeding edge version though so it will likely be buggy and/or broken in multiple ways.
 
