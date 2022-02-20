@@ -19,6 +19,11 @@ And the version I'm hoping will eventualy be considered the "stable" version I'm
 
 ## Updates!
 
+**22 Februrary 2022**
+
+I kept wanting to wait for something more signifcant before uploading a new version. I've been working on learning GMS2 and adding little things to newtius this whole time just
+didn't bother uploading anything. I still seem to be having that intermittent sound issue with HTML 5 and sounds. No idea if it will work from one build command to the next.
+
 **26th January 2022**
 
 As random speculative thing to try I tried the "clean" option under the "build menu" in GMS2 to see it that would fix it. I did a HTML5 preview and it was fixed. So then I generated the HTML5 zip file and put it in the repo and now it's fixed again. 
